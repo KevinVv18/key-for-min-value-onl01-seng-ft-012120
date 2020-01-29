@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
     if number < lowest_number
        lowest_number = number
        lowest_name = name
-     end
    else lowest_name
+   end 
   end
 end
